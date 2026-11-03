@@ -1,6 +1,6 @@
 {
-    "version":  "0.9",
-    "code":  9,
-    "apk":  "HamStation-Mobile-0.9.apk",
-    "notes":  "FT-891: LSB/USB and DATA buttons switch the sideband"
+    "version":  "0.10",
+    "code":  10,
+    "apk":  "HamStation-Mobile-0.10.apk",
+    "notes":  "Spot POTA activators on pota.app from the Log screen"
 }
