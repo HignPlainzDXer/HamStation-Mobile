@@ -1,6 +1,6 @@
 {
-    "version":  "0.11",
-    "code":  11,
-    "apk":  "HamStation-Mobile-0.11.apk",
-    "notes":  "TUNE button on the Rig tab (external tuners and Icom; the ATAS-120A only tunes from the radio\u0027s own TUNE)"
+    "version":  "0.12",
+    "code":  12,
+    "apk":  "HamStation-Mobile-0.12.apk",
+    "notes":  "Spots: sort by time, call, frequency, mode, spotter or park, A-Z or Z-A"
 }
