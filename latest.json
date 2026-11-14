@@ -1,6 +1,6 @@
 {
-    "version":  "0.12",
-    "code":  12,
-    "apk":  "HamStation-Mobile-0.12.apk",
-    "notes":  "Spots: sort by time, call, frequency, mode, spotter or park, A-Z or Z-A"
+    "version":  "0.13",
+    "code":  13,
+    "apk":  "HamStation-Mobile-0.13.apk",
+    "notes":  "Newer phones (Android 15/16): the app no longer hides under the status bar and Back/Home buttons"
 }
