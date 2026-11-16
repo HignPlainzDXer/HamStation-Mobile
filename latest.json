@@ -1,6 +1,6 @@
 {
-    "version":  "0.13",
-    "code":  13,
-    "apk":  "HamStation-Mobile-0.13.apk",
-    "notes":  "Newer phones (Android 15/16): the app no longer hides under the status bar and Back/Home buttons"
+    "version":  "0.14",
+    "code":  14,
+    "apk":  "HamStation-Mobile-0.14.apk",
+    "notes":  "Spots: the spot you\u0027re tuned to is highlighted (ON FREQ), so you don\u0027t lose your place"
 }
