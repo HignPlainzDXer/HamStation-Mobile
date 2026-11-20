@@ -1,6 +1,6 @@
 {
-    "version":  "0.15",
-    "code":  15,
-    "apk":  "HamStation-Mobile-0.15.apk",
-    "notes":  "Power slider no longer disappears; QRZ password and API key are hidden (tap Show)"
+    "version":  "0.16",
+    "code":  16,
+    "apk":  "HamStation-Mobile-0.16.apk",
+    "notes":  "Spots: the spot on your frequency is green. Tap a spot to tune and listen, tap it again to log it."
 }
