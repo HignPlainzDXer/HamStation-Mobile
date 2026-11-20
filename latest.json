@@ -1,6 +1,6 @@
 {
-    "version":  "0.14",
-    "code":  14,
-    "apk":  "HamStation-Mobile-0.14.apk",
-    "notes":  "Spots: the spot you\u0027re tuned to is highlighted (ON FREQ), so you don\u0027t lose your place"
+    "version":  "0.15",
+    "code":  15,
+    "apk":  "HamStation-Mobile-0.15.apk",
+    "notes":  "Power slider no longer disappears; QRZ password and API key are hidden (tap Show)"
 }
