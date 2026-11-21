@@ -1,6 +1,6 @@
 {
-    "version":  "0.16",
-    "code":  16,
-    "apk":  "HamStation-Mobile-0.16.apk",
-    "notes":  "Spots: the spot on your frequency is green. Tap a spot to tune and listen, tap it again to log it."
+    "version":  "0.17",
+    "code":  17,
+    "apk":  "HamStation-Mobile-0.17.apk",
+    "notes":  "Spots: new Radio\u0027s band and Radio\u0027s mode filters follow the radio as you change band or mode."
 }
